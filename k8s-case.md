@@ -6,7 +6,8 @@ kube-proxy是kubernetes中的关键组件,其主要功能是在Service和其后�
 * 对于集群规模中等，Service数量不多的，推荐选择iptables。
 * 如果客户端会出现大量并发短链接，目前建议选择iptables，原因见下方备注。
 
-> 在使用IPVS模式的kubernetes集群中进行滚动更新，期间如果有一个客户端在短时间内（两分钟）内发送大量短链接，客户端端口会被复用，导致node收到的来自于该客户端的请求报文网络五元组相同，触发IPVS复用Connection，有可能导致报文被转发到了一个已经销毁的Pod上，导致业务异常。官方issue：https://github.com/kubernetes/kubernetes/issues/81775
+> 在使用IPVS模式的kubernetes集群中进行滚动更新，期间如果有一个客户端在短时间内（两分钟）内发送大量短链接，客户端端口会被复用，导致node收到的来自于该客户端的请求报文网络五元组相同，触发IPVS复用Connection，有可能导致报文被转发到了一个已经销毁的Pod上，导致业务异常。
+官方issue：https://github.com/kubernetes/kubernetes/issues/81775
 
 ## 如何切换
 请参考[kube-proxy模式切换](uk8s/userguide/kubeproxy_edit)
