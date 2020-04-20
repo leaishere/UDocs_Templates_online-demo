@@ -1,6 +1,7 @@
 # <div class="sidebar_title icon__uhost"> 云主机 UHost</div>   <!-- 本行用于添加产品icon、中文名称、英文名称 -->
 
 * [概览](README.md)
+* [常用样式及注意事项](rules&guideline.md)
 * 产品介绍   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
    * [什么是云主机](/whatisuhost)
    * [k8s测试](/k8s-case)
