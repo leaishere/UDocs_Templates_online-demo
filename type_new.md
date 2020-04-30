@@ -17,9 +17,9 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 
 
 # 机型
-> 我们已于2019年5月后上线的全新的主机创建流程，所含机型均为V2.0。
+> 我们已于2019年5月后上线全新的主机创建流程，所含机型均为V2.0。
 > - 如需了解V1.0版机型信息请[查看](uhost/introduction/uhost/type) 
-> - 如需V2.0与V1.0概念相比发生了哪些变化，请[查看](uhost/faq#主机机型概念10和20发生了哪些变化)
+> - 如需了解V2.0与V1.0的的版本对比，请[查看](uhost/faq#主机机型概念10和20发生了哪些变化)
 
 ## 1. 快杰型 O
 计算、存储与网络性能卓越的最新一代云主机。适合全面需求场景
@@ -28,7 +28,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 - **磁盘类型** RSSD云盘
 - **特性支持** 网络增强2.0和热升级
 
-?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature) ｜ 了解 [CPU平台](https://leaishere.github.io/UDocs_Templates_online-demo/#/type_online)
+?> 想了解全部价格？查看 [主机价格](https://docs.ucloud.cn/uhost/price)
 
 !> **限制** ：快杰型云主机仅支持高内核版本镜像。若希望使用现有镜像创建快杰型云主机，请联系技术支持。
 
