@@ -1,10 +1,10 @@
-# 配置说明
+# 机型
 
 > 我们已于2019年5月后上线的全新的主机创建流程，所含机型均为V2.0。
 > - 如需了解V1.0版机型信息请[查看](uhost/introduction/uhost/type) 
 > - 如需V2.0与V1.0概念相比发生了哪些变化，请[查看](uhost/faq#主机机型概念10和20发生了哪些变化)
 
-## 机型介绍
+## 分类
 UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 
 |  类别  | 特点 | 适用场景 |
@@ -43,7 +43,6 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 | 系统盘              | 数据盘                |
 |  :- | :- |
 | RSSD云盘 (20-500GB) | RSSD云盘（20-32000GB） |
-
 
 
 
@@ -162,7 +161,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 
 ?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature) ｜ 了解 [CPU平台](https://leaishere.github.io/UDocs_Templates_online-demo/#/type_online)
 
-#### GPU-CPU-内存组合支持：
+#### GPU-CPU-内存组合支持
 
 | GPU   | CPU | 内存      |
 |  :- | :- | :- |
