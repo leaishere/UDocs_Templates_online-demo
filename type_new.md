@@ -23,7 +23,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 > - **磁盘类型** RSSD云盘
 > - **特性支持** 网络增强2.0和热升级
 
-?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
+?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature) ｜ 了解 [CPU平台](https://leaishere.github.io/UDocs_Templates_online-demo/#/type_online)
 
 !> **限制** ：快杰型云主机仅支持高内核版本镜像。若希望使用现有镜像创建快杰型云主机，请联系技术支持。
 
@@ -54,7 +54,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 > - **磁盘类型** 云盘、普通本地盘、SSD本地盘
 > - **特性支持** 网络增强1.0/网络增强2.0（仅Skylake及以上支持）和热升级
 
-?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
+?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature) ｜ 了解 [CPU平台](https://leaishere.github.io/UDocs_Templates_online-demo/#/type_online)
 
 
 #### CPU内存组合 
@@ -86,7 +86,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 > - **磁盘类型** 云盘、SSD本地盘
 > - **特性支持** 网络增强1.0和热升级
 
-?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
+?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature) ｜ 了解 [CPU平台](https://leaishere.github.io/UDocs_Templates_online-demo/#/type_online)
 
 #### CPU内存组合
 
@@ -112,7 +112,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 > 附带GPU卡的机型，适合需要GPU进行计算的业务，如高性能运算、渲染、人工智能等。目前支持K80, P40, V100
 3种GPU卡。三种卡附属的配置略有不同
 
-?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
+?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature) ｜ 了解 [CPU平台](https://leaishere.github.io/UDocs_Templates_online-demo/#/type_online)
 
 #### GPU性能对比
 
@@ -132,7 +132,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 > - **磁盘类型** 云盘、SSD本地盘
 > - **特性支持** 网络增强1.0
 
-?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
+?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature) ｜ 了解 [CPU平台](https://leaishere.github.io/UDocs_Templates_online-demo/#/type_online)
 
 #### GPU-CPU-内存组合支持
 
@@ -160,7 +160,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 > - **磁盘类型** SSD本地盘
 > - **特性支持** 网络增强1.0
 
-?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
+?> 查看 [价格](https://docs.ucloud.cn/uhost/price) ｜ 了解 [磁盘](/uhost/introduction/disk) ｜了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature) ｜ 了解 [CPU平台](https://leaishere.github.io/UDocs_Templates_online-demo/#/type_online)
 
 #### GPU-CPU-内存组合支持：
 
