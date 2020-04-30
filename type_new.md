@@ -41,16 +41,19 @@ Intel Cascadelake / AMD EPYC2
 | 系统盘              | 数据盘                |
 | ---------------- | ------------------ |
 | RSSD云盘 (20-500GB) | RSSD云盘（20-32000GB） |
+
 ?> 了解[磁盘](/uhost/introduction/disk)
 
 #### 特性支持：网络增强2.0和热升级
 !> **限制** ：快杰型云主机仅支持高内核版本镜像。若希望使用现有镜像创建快杰型云主机，请联系技术支持。
+
 ?> 了解[特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
 
 
 ### 通用型 N
 
 > 提供最灵活自由的CPU、内存、磁盘组合。适合计算、存储、网络等均衡的场景。
+
 ?> 查看 [价格](https://docs.ucloud.cn/uhost/price)
 
 #### CPU平台支持：Intel IvyBridge/Haswell/Broadwell/Skylake
@@ -74,6 +77,7 @@ Intel Cascadelake / AMD EPYC2
 | SSD云盘 (20-500GB) | SSD云盘（20-4000GB），普通云盘（20-8000GB） |
 | 普通本地盘（20-100GB）  | 普通本地盘（20-2000GB）                 |
 | SSD本地盘（20-100GB） | SSD本地盘（20-1000GB）                |
+
 ?> 了解[磁盘](/uhost/introduction/disk)
 
 #### 特性支持：网络增强1.0/网络增强2.0（仅Skylake及以上支持）和热升级
@@ -100,6 +104,7 @@ Intel Cascadelake / AMD EPYC2
 | ---------------- | -------------------------------- |
 | SSD云盘 (20-500GB) | SSD云盘（20-4000GB），普通云盘（20-8000GB） |
 | SSD本地盘（20-100GB） | SSD本地盘（20-1000GB）                |
+
 ?> 了解[磁盘](/uhost/introduction/disk)
 
 #### 特性支持：网络增强1.0和热升级
@@ -107,6 +112,7 @@ Intel Cascadelake / AMD EPYC2
 ### GPU型 G
 > 附带GPU卡的机型，适合需要GPU进行计算的业务，如高性能运算、渲染、人工智能等。目前支持K80, P40, V100
 3种GPU卡。三种卡附属的配置略有不同。
+
 ?> 查看 [价格](https://docs.ucloud.cn/uhost/price)
 
 #### GPU性能对比
@@ -139,6 +145,7 @@ Intel Cascadelake / AMD EPYC2
 | ---------------- | -------------------------------- |
 | SSD云盘 (20-500GB) | SSD云盘（20-4000GB），普通云盘（20-8000GB） |
 | SSD本地盘（20-100GB） | SSD本地盘（20-1000GB）                |
+
 ?> 了解[磁盘](/uhost/introduction/disk)
 
 #### 特性支持：网络增强1.0
@@ -146,6 +153,7 @@ Intel Cascadelake / AMD EPYC2
 
 ### K80 GPU
 > 简介
+
 ?> 查看 [价格](https://docs.ucloud.cn/uhost/price)
 
 #### CPU平台支持：Intel Haswell
@@ -162,6 +170,7 @@ Intel Cascadelake / AMD EPYC2
 | 系统盘              | 数据盘               |
 | ---------------- | ----------------- |
 | SSD本地盘（20-100GB） | SSD本地盘（20-1000GB） |
+
 ?> 了解[磁盘](/uhost/introduction/disk)
 
 #### 特性支持：网络增强1.0
