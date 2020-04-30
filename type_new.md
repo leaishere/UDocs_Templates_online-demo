@@ -28,7 +28,7 @@ Intel Cascadelake / AMD EPYC2
 #### CPU内存组合：支持配比1:1-1:8
 
 | CPU | 内存                 |
-|  :- | :- | :- |
+|  :- | :- | 
 | 4核  | 4G，8G，16G，32G      |
 | 8核  | 8G，16G，32G，64G     |
 | 16核 | 16G，32G，64G，128G   |
@@ -39,7 +39,7 @@ Intel Cascadelake / AMD EPYC2
 #### 磁盘类型：RSSD云盘
 
 | 系统盘              | 数据盘                |
-|  :- | :- | :- |
+|  :- | :- |
 | RSSD云盘 (20-500GB) | RSSD云盘（20-32000GB） |
 
 ?> 了解[磁盘](/uhost/introduction/disk)
@@ -61,7 +61,7 @@ Intel Cascadelake / AMD EPYC2
 #### CPU内存组合（支持配比1:1-1:8）：
 
 | CPU | 内存                         |
-|  :- | :- | :- |
+|  :- | :- | 
 | 1核  | 1G，2G，4G，8G                |
 | 2核  | 2G，4G，6G，8G，12G，16G        |
 | 4核  | 4G，6G，8G，12G，16G，32G       |
