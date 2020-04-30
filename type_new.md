@@ -1,4 +1,3 @@
-
 # 配置说明
 
 > 我们已于2019年5月后上线的全新的主机创建流程，所含机型均为V2.0。
@@ -6,7 +5,6 @@
 > - 如需V2.0与V1.0概念相比发生了哪些变化，请[查看](uhost/faq#主机机型概念10和20发生了哪些变化)
 
 ## 机型介绍
-
 UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 
 |  类别  | 特点 | 适用场景 |
@@ -16,14 +14,20 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 | 高主频型 C | 采用3.2GHz主频的CPU，计算性能强 | 高频交易，数据处理，图形渲染等 |
 | GPU型 G | 搭载K80，P40或V100 GPU | 人工智能，科学计算，图形渲染等 |
 
-?> 想了解全部价格？：[主机价格](https://docs.ucloud.cn/uhost/price)
+?> 想了解全部价格？查看 [主机价格](https://docs.ucloud.cn/uhost/price)
 
-### 快杰型 O
-> 计算、存储与网络性能卓越的最新一代云主机。适合全面需求场景。
+### 1. 快杰型 O
+> 计算、存储与网络性能卓越的最新一代云主机。适合全面需求场景：
+> - **CPU平台支持** Intel Cascadelake / AMD EPYC2
+> - **CPU内存组合** 支持配比1:1-1:8
+> - **磁盘类型** RSSD云盘
+> - **特性支持** 网络增强2.0和热升级
+
 ?> 查看 [价格](https://docs.ucloud.cn/uhost/price)
+?> 了解 [磁盘](/uhost/introduction/disk)
+?> 了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
 
-#### CPU平台支持
-Intel Cascadelake / AMD EPYC2
+!> **限制** ：快杰型云主机仅支持高内核版本镜像。若希望使用现有镜像创建快杰型云主机，请联系技术支持。
 
 #### CPU内存组合：支持配比1:1-1:8
 
@@ -42,15 +46,10 @@ Intel Cascadelake / AMD EPYC2
 |  :- | :- |
 | RSSD云盘 (20-500GB) | RSSD云盘（20-32000GB） |
 
-?> 了解[磁盘](/uhost/introduction/disk)
-
-#### 特性支持：网络增强2.0和热升级
-!> **限制** ：快杰型云主机仅支持高内核版本镜像。若希望使用现有镜像创建快杰型云主机，请联系技术支持。
-
-?> 了解[特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
 
 
-### 通用型 N
+
+### 2. 通用型 N
 
 > 提供最灵活自由的CPU、内存、磁盘组合。适合计算、存储、网络等均衡的场景。
 
@@ -78,12 +77,12 @@ Intel Cascadelake / AMD EPYC2
 | 普通本地盘（20-100GB）  | 普通本地盘（20-2000GB）                 |
 | SSD本地盘（20-100GB） | SSD本地盘（20-1000GB）                |
 
-?> 了解[磁盘](/uhost/introduction/disk)
+?> 了解 [磁盘](/uhost/introduction/disk)
 
 #### 特性支持：网络增强1.0/网络增强2.0（仅Skylake及以上支持）和热升级
-?> 了解[特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
+?> 了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
 
-### 高主频型 C
+### 3. 高主频型 C
 > CPU主频≥3.0GHz的机型，适合计算类业务，如高频交易、渲染、人工智能等。
 
 #### CPU平台支持：Intel Skylake
@@ -109,7 +108,7 @@ Intel Cascadelake / AMD EPYC2
 
 #### 特性支持：网络增强1.0和热升级
 
-### GPU型 G
+### 4. GPU型 G
 > 附带GPU卡的机型，适合需要GPU进行计算的业务，如高性能运算、渲染、人工智能等。目前支持K80, P40, V100
 3种GPU卡。三种卡附属的配置略有不同。
 
@@ -126,7 +125,7 @@ Intel Cascadelake / AMD EPYC2
 | 显存容量     | 16GB       | 24GB      | 12GB       |
 | 架构       | Volta      | Pascal    | Kepler     |
 
-### V100 / P40 GPU
+### 5. V100 / P40 GPU
 #### CPU平台支持：Broadwell
 #### GPU-CPU-内存组合支持：
 
@@ -151,7 +150,7 @@ Intel Cascadelake / AMD EPYC2
 #### 特性支持：网络增强1.0
 ?> 了解[特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
 
-### K80 GPU
+### 6. K80 GPU
 > 简介
 
 ?> 查看 [价格](https://docs.ucloud.cn/uhost/price)
@@ -162,8 +161,8 @@ Intel Cascadelake / AMD EPYC2
 | GPU   | CPU | 内存      |
 |  :- | :- | :- |
 | 1颗/2颗 | 4核  | 8G，16G  |
-|       | 8核  | 16G，32G |
-|       | 16核 | 32G，64G |
+| 1颗/2颗 | 8核  | 16G，32G |
+| 1颗/2颗 | 16核 | 32G，64G |
 
 #### 磁盘类型支持：SSD本地盘
 
@@ -171,7 +170,7 @@ Intel Cascadelake / AMD EPYC2
 |  :- | :- |
 | SSD本地盘（20-100GB） | SSD本地盘（20-1000GB） |
 
-?> 了解[磁盘](/uhost/introduction/disk)
+?> 了解 [磁盘](/uhost/introduction/disk)
 
 #### 特性支持：网络增强1.0
-?> 了解[特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
+?> 了解 [特性简介：网络增强、热升级与数据方舟](/uhost/introduction/uhost/feature)
