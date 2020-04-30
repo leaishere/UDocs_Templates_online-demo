@@ -16,7 +16,7 @@ UCloud云主机根据 **应用场景** 将主机区分为以下四种：
 
 ?> 想了解全部价格？查看 [主机价格](https://docs.ucloud.cn/uhost/price)
 
-### 快杰型 O
+### 1. 快杰型 O
 > 计算、存储与网络性能卓越的最新一代云主机。适合全面需求场景
 > - **CPU平台支持** Intel Cascadelake / AMD EPYC2
 > - **CPU内存组合** 支持配比1:1-1:8
