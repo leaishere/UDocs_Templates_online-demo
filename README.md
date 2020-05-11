@@ -85,3 +85,20 @@ Hello!
 Hello!
 
 <!-- tabs:end -->
+
+
+<!-- tabs:start -->
+
+** tab1 **
+
+Hello!
+
+** tab2 **
+
+Hello!
+
+** tab3 **
+
+Hello!
+
+<!-- tabs:end -->
