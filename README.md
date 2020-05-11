@@ -48,3 +48,40 @@
   - [问题描述](相对链接)
 - 场景2:场景描述场景描述场景描述场景描述场景描述场景描述场景描述场景描述
   - [问题描述](相对链接)
+  
+  
+  
+  
+<!-- tabs:start -->
+
+<!-- tab:English -->
+
+Hello!
+
+<!-- tab:French -->
+
+Bonjour!
+
+<!-- tab:Italian -->
+
+Ciao!
+
+<!-- tabs:end -->
+
+
+
+<!-- tabs:start -->
+
+#### tab1
+
+Hello!
+
+#### tab2
+
+Hello!
+
+#### tab3
+
+Hello!
+
+<!-- tabs:end -->
