@@ -1,12 +1,13 @@
 # 产品价格
 
 ## 最新活动价
-| 活动名称 | 时活动价（元/小时） | 月活动价（元/月） | 年活动价（元/年） | 详情 |
-| :---- | :---- | :---- | :---- | :---- | 
-| 快杰云主机，降成本神器 | 100 | 500 | 2000 | [了解详情](https://www.ucloud.cn/site/active/1111.html) |
-| 快杰云主机，降成本神器 | 100 | 500 | 2000 | [了解详情](https://www.ucloud.cn/site/active/1111.html) |
-| 快杰云主机，降成本神器 | 100 | 500 | 2000 | [了解详情](https://www.ucloud.cn/site/active/1111.html) |
-| 快杰云主机，降成本神器 | 100 | 500 | 2000 | [了解详情](https://www.ucloud.cn/site/active/1111.html) |
+## 最新活动价
+| 活动名称 | 详情 |
+| :---- | :---- | 
+| 快杰云主机，降成本神器 | [了解详情](https://www.ucloud.cn/site/active/1111.html) |
+| 快杰云主机，降成本神器 | [了解详情](https://www.ucloud.cn/site/active/1111.html) |
+| 快杰云主机，降成本神器 | [了解详情](https://www.ucloud.cn/site/active/1111.html) |
+| 快杰云主机，降成本神器 | [了解详情](https://www.ucloud.cn/site/active/1111.html) |
 
 ## 产品价格
 | 地域 | 可用区 | 机型 | 镜像 | CPU（核） |  时活动价（元/小时） | 月活动价（元/月）| 年活动价（元/年）| 操作 |
